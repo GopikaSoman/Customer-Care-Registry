@@ -47,6 +47,7 @@ Department     :    Information Technology
   <tr>
     <td>SHALINI</td>
     </tr>
+  <h2>TEAM DETAILS</h2>
   <table>
   <tr>
     <th>TEAM ID</th>
