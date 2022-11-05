@@ -47,12 +47,19 @@ Department     :    Information Technology
   <tr>
     <td>SHALINI</td>
     </tr>
-    
-    
+  <table>
+  <tr>
+    <th>TEAM ID</th>
+    <th>COLLEGE NAME</th>
+    <th>DEPARTMENT</th>
+  </tr>
+  <tr>
+    <td>PNT2022TMID39526</td>
+    <td>BHARATHIDASAN ENGINEERING COLLEGE</td>
+    <td>INFORMATION TECHNOLOGY</td>
+  </tr>
+ 
 </table>
 
 </body>
 </html>
-
-
-
