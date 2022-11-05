@@ -2,18 +2,6 @@
 
 WELCOME !!! TO OUR PROJECT......
 
-
-## TEAM DETAILS
-
-Team number    :    PNTIBMID39526
-
-College Name   :    Bharathidasan Engineering College
-
-Department     :    Information Technology
-
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
