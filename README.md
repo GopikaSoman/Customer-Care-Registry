@@ -25,19 +25,37 @@ Shalini       Team member3
 <!DOCTYPE html>
 <html>
 <head>
-<style>
 </head>
 <body>
 
-<h2>HTML Table</h2>
+<h2>TEAM MEMBERS</h2>
 
 <table>
   <tr>
-    <th>TEAM  MEMBERS</th>
+    <th>TEAM LEADER</th>
     </tr>
   <tr>
-    <td>GOPIKA SOMAN (Team leader)</td>
-    <td>OVIYASREE (Team member 1)</td>
+    <td>GOPIKA SOMAN </td>
+    </tr>
+  <tr>
+    <th>TEAM MEMBER 1 </th>
+  </tr>
+  <tr>
+   <td>OVIYA SREE </td>
+    </tr>
+  <tr>
+    <th>TEAM MEMBER 2</th>
+    </tr>
+  <tr>
+    <td>SEETHA</td>
+    </tr>
+  <tr>
+    <th>TEAM MEMBER 3 </th>
+    </tr>
+  <tr>
+    <td>SHALINI</td>
+    </tr>
+    
     <td>SEETHA (Team member 2)</td>
     <td>SHALINI (Team member 3)</td>
   </tr>
