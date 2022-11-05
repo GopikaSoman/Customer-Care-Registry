@@ -12,15 +12,7 @@ College Name   :    Bharathidasan Engineering College
 Department     :    Information Technology
 
 
-### TEAM MEMBERS
 
-Gopika Soman  Team leader
-
-Oviya Sree    Team member1
-
-Seetha        Team member2
-
-Shalini       Team member3
 
 <!DOCTYPE html>
 <html>
@@ -56,10 +48,6 @@ Shalini       Team member3
     <td>SHALINI</td>
     </tr>
     
-    <td>SEETHA (Team member 2)</td>
-    <td>SHALINI (Team member 3)</td>
-  </tr>
-  <tr>
     
 </table>
 
