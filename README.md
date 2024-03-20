@@ -4,6 +4,7 @@ WELCOME !!! TO OUR PROJECT......
 
 <!DOCTYPE html>
 <html>
+<html>
 <head>
 </head>
 <body>
