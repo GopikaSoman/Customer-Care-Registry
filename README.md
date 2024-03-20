@@ -4,39 +4,30 @@ WELCOME !!! TO OUR PROJECT......
 
 <!DOCTYPE html>
 <html>
-<html>
 <head>
 </head>
 <body>
-
 <h2>TEAM MEMBERS</h2>
-
 <table>
   <tr>
     <th>TEAM LEADER</th>
+    <th>GOPIKA SOMAN </th>
     </tr>
   <tr>
-    <td>GOPIKA SOMAN </td>
+    <th>TEAM MEMBER 1 </th>
+   <th>OVIYA SREE </th>
     </tr>
   <tr>
-    <th>TEAM MEMBER 1 </th>
-  </tr>
-  <tr>
-   <td>OVIYA SREE </td>
+    <th>TEAM MEMBER 2</th>
+  <th>SEETHA</th>
     </tr>
   <tr>
-    <th>TEAM MEMBER 2</th>
-    </tr>
-  <tr>
-    <td>SEETHA</td>
-    </tr>
-  <tr>
-    <th>TEAM MEMBER 3 </th>
-    </tr>
-  <tr>
-    <td>SHALINI</td>
+    <th>TEAM MEMBER 3 </th>
+    <th>SHALINI</th>
     </tr>
   </table>
+  </body>
+  </html>
   <h2>TEAM DETAILS</h2>
   <table>
   <tr>
