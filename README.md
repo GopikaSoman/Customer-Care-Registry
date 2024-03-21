@@ -1,6 +1,5 @@
 # CUSTOMER CARE REGISTRY
 
-WELCOME !!! TO OUR PROJECT......
 
 <!DOCTYPE html>
 <html>
